@@ -1,7 +1,7 @@
 # Inshackle v1.0
 ## Author: github.com/thelinuxchoice/inshackle
 ## IG: instagram.com/linux_choice
-### Don't copy this code without give me the credits, nerd! Please read the License 
+### Don't copy this code without giving me the credits, nerd! Please read the License.
 
 Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
 
